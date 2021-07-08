@@ -1,0 +1,19 @@
+{
+  "Name": "DuraHuman",
+  "Author": "Bitl",
+  "Description": "This mod adds humans of various durabilities, useful for videos or fighting scenarios. This adds humans that are 2x-1,000,000x as durable as regular humans.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.19.x",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "DuraHuman.DuraHumanMod",
+  "Tags": [
+    "Fun",
+    "Realistic"
+  ],
+  "Scripts": [
+    "DuraHumanMod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2540559623"
+}
