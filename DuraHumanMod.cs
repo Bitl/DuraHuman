@@ -33,12 +33,12 @@ namespace DuraHuman
 			{
 				limb.Health *= durabilityVal;
 				limb.BreakingThreshold *= durabilityVal;
-				limb.BalanceMuscleMovement *= durabilityVal;
-				limb.IsAndroid = hasStrongLimbs;
+				//limb.BalanceMuscleMovement *= durabilityVal;
+				//limb.IsAndroid = hasStrongLimbs;
 				limb.ImmuneToDamage = hasStrongLimbs; 
 				limb.ImpactPainMultiplier *= damageMultiplier;
 				limb.ShotDamageMultiplier *= damageMultiplier;
-				limb.DoBalanceJerk = !hasStrongLimbs;
+				//limb.DoBalanceJerk = !hasStrongLimbs;
 			}
 		}
     }
